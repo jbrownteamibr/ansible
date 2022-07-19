@@ -1,0 +1,5 @@
+[cont]
+devcontainer
+[cont:vars]
+ansible_connection=docker
+update_on_launch=yes
